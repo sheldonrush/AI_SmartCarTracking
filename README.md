@@ -8,9 +8,9 @@
 ## Source
 
 * main.py : 
- 1. 若是需要 auto labeling all data, 可下 python main.py dataset
- 2. 若是需要跑單個file,可下python main.py
- 3. 在vid_pipeline的地方會蒐集, speed/經緯度/car/plate/OCR/豪車
+  1. 若是需要 auto labeling all data, 可下 python main.py dataset
+  2. 若是需要跑單個file,可下python main.py
+  3. 在vid_pipeline的地方會蒐集, speed/經緯度/car/plate/OCR/豪車
      
      test video : ./test_video 
      output result : ./result/

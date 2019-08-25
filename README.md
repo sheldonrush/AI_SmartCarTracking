@@ -13,7 +13,7 @@
   3. 在vid_pipeline的地方會蒐集, speed/經緯度/car/plate/OCR/豪車
  
 ```c
-     test video : ./test_video      
+     test video    : ./test_video      
      output result : ./result/
 ```
 * car_dashboard.py : 

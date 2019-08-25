@@ -64,3 +64,17 @@
 * [python圖片自動爬蟲](https://github.com/YoongiKim/AutoCrawler)
  
 * [谷歌批次下載圖片](https://chrome.google.com/webstore/detail/fatkun-batch-download-ima/nnjjahlikiabnchcpehcpkdeckfgnohf?hl=zh-TW)
+
+## NOTE 
+* 由於免費github帳號, 只能上傳單比小於100M的檔案, 所以我把比較大的檔案放在google drive 上, 
+* https://drive.google.com/open?id=1_RPlV4hksJ6V--qOQbODavoVqjY_LMtS
+
+```c
+cp yolo-voc.weights data/vehicle-detector/yolo-voc.weights
+cp yolov3.weights data/vehicle-detector/yolov3.weights
+cp FILE190810-103932F.MP4 test_video/FILE190810-103932F.MP4
+cp car-cat-detector.h5 data/car-cat-detector/car-cat-detector.h5
+```
+
+## Author
+* Sheldon Peng (rushpeng@gmail.com)

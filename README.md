@@ -80,4 +80,5 @@ cp car-cat-detector.h5 data/car-cat-detector/car-cat-detector.h5
 * Sheldon Peng (rushpeng@gmail.com)
 * Yuanteng Chang (yuanteng@gmail.com)
 * Yuanbin Weng(wiwi0324@gmail.com)
+* Wenchia liang (wenchialiang@icloud.com)
 

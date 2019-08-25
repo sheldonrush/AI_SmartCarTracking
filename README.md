@@ -16,8 +16,9 @@
      test video    : ./test_video      
      output result : ./result/
 ```
-* car_dashboard.py : 
-  * 畫智慧型追蹤儀表板UI的地方. 
+* car_dashboard.py :
+  * 畫智慧型追蹤儀表板UI的地方.
+  ![Smart Car Tracking Dashboard](./dashboard.jpg)
     
 * globals.py :
   * 所有global value 放置的地方. 

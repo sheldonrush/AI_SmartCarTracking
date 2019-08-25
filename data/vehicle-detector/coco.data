@@ -1,0 +1,4 @@
+classes= 80
+names = data/vehicle-detector/coco.names
+backup = backup
+

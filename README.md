@@ -5,6 +5,10 @@
   3. 好野人車警示系統  
   4. 強逼車與急剎車行為偵測
 
+## DEMO 
+
+https://www.youtube.com/watch?v=KaumR1uHbKU&feature=youtu.be
+
 ## Source
 
 * main.py : 
@@ -79,6 +83,6 @@ cp car-cat-detector.h5 data/car-cat-detector/car-cat-detector.h5
 ## Author
 * Sheldon Peng (rushpeng@gmail.com)
 * Yuanteng Chang (yuanteng@gmail.com)
-* Yuanbin Weng(wiwi0324@gmail.com)
+* Yuanbin Weng (wiwi0324@gmail.com)
 * Wenchia liang (wenchialiang@icloud.com)
 

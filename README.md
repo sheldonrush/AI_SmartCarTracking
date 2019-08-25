@@ -17,38 +17,35 @@
      output result : ./result/
 ```
 * car_dashboard.py : 
- 畫智慧型追蹤儀表板UI的地方. 
+  * 畫智慧型追蹤儀表板UI的地方. 
     
 * globals.py :
- 所有global value 放置的地方. 
+  * 所有global value 放置的地方. 
 
 * lane_detection.py : 
- 1. Distortion Correction
- 2. Perspective Warp
- 3. Sobel Filtering
- 4. Histogram Peak Detection
- 5. Sliding Window Search
- 6. Curve Fitting
- 7. 判斷是否違規
+  1. Distortion Correction
+  2. Perspective Warp
+  3. Sobel Filtering
+  4. Histogram Peak Detection
+  5. Sliding Window Search
+  6. Curve Fitting
+  7. 判斷是否違規
      
 * read_gps.py
- 1.讀gps file, 抽出時間和車速/經緯度 
+  1.讀gps file, 抽出時間和車速/經緯度 
 
 * alpr_lib.py : 
- 1. car detection
- 2. car category detection
- 3. plate detection
- 4. ocr detection
- 5. car tracking
+  1. car detection
+  2. car category detection
+  3. plate detection
+  4. ocr detection
+  5. car tracking
 
 ## Dataset
 
-* 1. 違規駕駛蒐集的data set, 放在 result/data_set
-     Totoal 43G 2k 影片, 107個 movie file, 共268770筆資料 
-* 2. 車牌資料集: AOLP dataset
-     共2049筆圖片 
-* 3. 車子資料集: stanford car dataset + crawler
-     共8340筆圖片 
+* 1. 違規駕駛蒐集的data set, 放在 result/data_set, Totoal 43G 2k 影片, 107個 movie file, 共268770筆資料 
+* 2. 車牌資料集: AOLP dataset 共2049筆圖片 
+* 3. 車子資料集: stanford car dataset + crawler 共8340筆圖片 
 
 ## References
 

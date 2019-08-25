@@ -78,3 +78,5 @@ cp car-cat-detector.h5 data/car-cat-detector/car-cat-detector.h5
 
 ## Author
 * Sheldon Peng (rushpeng@gmail.com)
+* Yuanteng Chang (yuanteng@gmail.com)
+
